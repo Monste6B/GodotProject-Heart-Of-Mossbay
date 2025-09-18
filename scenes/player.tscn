@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0ll7yow3dsbc"]
+
+[ext_resource type="PackedScene" uid="uid://ddgtf3km6c543" path="res://3d assets/character/cac-1758203972398.gltf" id="1_3vyb7"]
+
+[node name="AuxScene" instance=ExtResource("1_3vyb7")]
+
+[node name="Skeleton3D" parent="Node" index="0"]
+bones/15/rotation = Quaternion(0.0109003, 0.0442091, -0.0420871, 0.998076)
+bones/17/rotation = Quaternion(0.000263688, -0.00472279, 0.0454364, 0.998956)
+bones/22/rotation = Quaternion(2.62773e-07, -0.000103177, -0.00190133, 0.999998)
+bones/25/rotation = Quaternion(-3.57392e-07, -7.3378e-06, -0.00302394, 0.999995)
+bones/33/rotation = Quaternion(-1.94533e-07, 3.4871e-05, -0.00219672, 0.999998)
+bones/34/rotation = Quaternion(-1.0619e-07, -2.77062e-05, -0.000731217, 1)
+bones/41/rotation = Quaternion(0.00028957, 0.00502745, -0.0471871, 0.998873)
+bones/56/rotation = Quaternion(-0.00882817, 0.00755681, -0.0393906, 0.999156)
+bones/57/rotation = Quaternion(-4.42888e-08, -1.40367e-05, 0.00283666, 0.999996)
+bones/58/rotation = Quaternion(-8.57957e-08, -3.91022e-05, -0.00064093, 1)
